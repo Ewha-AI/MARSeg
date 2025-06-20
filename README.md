@@ -2,8 +2,6 @@
 
 This is the official repository of MARSeg model.
 
-🎉🎉 This work has been accepted to **MICCAI 2025 (28th International Conference on Medical Image Computing and Computer-Assisted Intervention)** !
-
 ## MARSeg
 ![MARSeg Model](images/MARSeg.jpg)
 
