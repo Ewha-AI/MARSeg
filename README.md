@@ -1,6 +1,6 @@
 # MARSeg: Enhancing Medical Image Segmentation with MAR and Adaptive Feature Fusion
 
-This is the official repository of MARSeg model.
+This is the official repository of MARSeg model. 
 
 ## MARSeg
 ![MARSeg Model](images/MARSeg.jpg)
