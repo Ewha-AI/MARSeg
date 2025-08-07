@@ -43,3 +43,8 @@ To run inference using the trained model, execute the following command:
 ```
 ./evaluate.sh
 ```
+
+## License
+This project includes code from [LTH14/mar](https://github.com/LTH14/mar) under the MIT License.
+See the [LICENSE](./LICENSE) file for full details.
+
