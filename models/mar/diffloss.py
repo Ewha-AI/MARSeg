@@ -1,4 +1,4 @@
-# This code is modified from the original repository:
+# This code is from the original repository:
 # https://github.com/LTH14/mar
 
 import torch
