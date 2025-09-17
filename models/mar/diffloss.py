@@ -1,5 +1,6 @@
-# This code is from the original repository:
-# https://github.com/LTH14/mar
+# SPDX-License-Identifier: MIT
+# from MAR (https://github.com/LTH14/mar)
+# Copyright (c) 2024 Tianhong Li — Licensed under the MIT License
 
 import torch
 import torch.nn as nn
