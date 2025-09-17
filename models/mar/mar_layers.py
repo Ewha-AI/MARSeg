@@ -1,5 +1,6 @@
-# This code is modified from the original repository:
-# https://github.com/LTH14/mar
+# SPDX-License-Identifier: MIT
+# Portions adapted from MAR (https://github.com/LTH14/mar)
+# Copyright (c) 2024 Tianhong Li — Licensed under the MIT License
 
 from functools import partial
 
