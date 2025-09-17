@@ -1,3 +1,6 @@
+# This code is from the original repository:
+# https://github.com/LTH14/mar
+
 # Adopted from LDM's KL-VAE: https://github.com/CompVis/latent-diffusion
 import os
 import sys
