@@ -1,3 +1,6 @@
+# This code is modified from the original repository:
+# https://github.com/LTH14/mar
+
 import torch
 import torch.nn as nn
 from torch.utils.checkpoint import checkpoint
