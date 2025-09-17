@@ -1,5 +1,6 @@
-# This code is from the original repository:
-# https://github.com/LTH14/mar
+# SPDX-License-Identifier: MIT
+# Portions adapted from MAR (https://github.com/LTH14/mar)
+# Copyright (c) 2024 Tianhong Li — Licensed under the MIT License
 
 # Adopted from LDM's KL-VAE: https://github.com/CompVis/latent-diffusion
 import os
